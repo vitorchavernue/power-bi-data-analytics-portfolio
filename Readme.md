@@ -8,15 +8,15 @@ Built by **Vitor Chavernue**, Senior Data Engineer & Data Analyst with 15 years 
 
 ## 📁 Projects
 
-| Project | Domain | Highlights |
-|---|---|---|
-| [**AdventureWorks Sales Dashboard**](Visualizing-Microsoft-AdventureWorks-Data/Documentation.md) | Sales & Retail | Star schema, time intelligence, targets, what-if parameter, return rate |
-| [**Paris 2024 Olympics**](Paris-2024-Olympics/Documentation.md) | Sports Analytics | Measures table, dynamic KPIs, custom navigation, historical analysis |
-| [**Starbucks Drinks Nutrition**](Starbucks-Drinks-Dashboard/Documentation.md) | Product Analysis | Nutrient rankings, combined charts, Python data generator |
-| [**AdventureWorks SQL**](AdventureWorksSQL/) | Sales & Customers | Data extraction from SQL Server into Power BI |
-| [**SQL Training Demo**](SQL-Training-Demo/) | SQL for Analytics | Joins, aggregations and analytical query patterns feeding Power BI |
-| [**Power BI with Python**](Power-BI-with-Python/) | Data Integration | Python scripts for data cleansing and custom transformations inside Power BI |
-| [**Financial Report Sample**](Financial-Report-Sample/) | Finance | Revenue vs. expenses, profitability and KPI tracking |
+| Project | Business question | Solution | Highlights |
+|---|---|---|---|
+| [**AdventureWorks Sales Dashboard**](Visualizing-Microsoft-AdventureWorks-Data/Documentation.md) | Are we hitting revenue and order targets, and which products drive returns? | Executive report with targets, month-over-month comparison and return rate by product | Star schema, time intelligence, what-if price simulation |
+| [**Paris 2024 Olympics**](Paris-2024-Olympics/Documentation.md) | Which countries and athletes performed best, and how does it compare historically? | Medal, athlete and country analysis with a historical view | Measures table, dynamic KPI text, custom navigation |
+| [**Starbucks Drinks Nutrition**](Starbucks-Drinks-Dashboard/Documentation.md) | Which drinks are best for caffeine, protein or fewer calories? | Nutrient rankings by category and preparation type | Combined charts, Python data generator |
+| [**AdventureWorks SQL**](AdventureWorksSQL/) | How do sales and customers evolve over time? | SQL Server extraction feeding a Power BI sales model | SQL-based ETL into Power BI |
+| [**SQL Training Demo**](SQL-Training-Demo/) | How to answer analytical questions directly in SQL? | Analytical query patterns feeding the report | Joins, aggregations, window logic |
+| [**Power BI with Python**](Power-BI-with-Python/) | How to clean data that Power Query alone handles poorly? | Python scripts embedded in the Power BI refresh | pandas transformations inside Power BI |
+| [**Financial Report Sample**](Financial-Report-Sample/) | Is the business profitable, and where do expenses grow? | Revenue vs. expenses and profitability KPIs | Financial KPIs, variance analysis |
 
 ---
 
